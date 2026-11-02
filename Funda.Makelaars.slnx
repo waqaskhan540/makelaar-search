@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Funda.Makelaars.Cli/Funda.Makelaars.Cli.csproj" />
+    <Project Path="src/Funda.Makelaars/Funda.Makelaars.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Funda.Makelaars.UnitTests/Funda.Makelaars.UnitTests.csproj" />
+    <Project Path="tests/Funda.Makelaars.IntegrationTests/Funda.Makelaars.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
